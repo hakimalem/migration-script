@@ -6,7 +6,6 @@ This script migrates all existing projects to conform to the new project model r
 
 - **Attributes kept as they are (copied from old to new):**
   - `acronym`
-  - `type` (set to `"FundedProject"`)
   - `name`
   - `homePage`
   - `description`
